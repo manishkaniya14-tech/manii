@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "doctor-1",
+      "description": "Male doctor in white coat",
+      "imageUrl": "https://picsum.photos/seed/doc1/400/400",
+      "imageHint": "doctor male"
+    },
+    {
+      "id": "doctor-2",
+      "description": "Female doctor with stethoscope",
+      "imageUrl": "https://picsum.photos/seed/doc2/400/400",
+      "imageHint": "doctor female"
+    },
+    {
+      "id": "doctor-3",
+      "description": "Smiling female doctor",
+      "imageUrl": "https://picsum.photos/seed/doc3/400/400",
+      "imageHint": "doctor professional"
+    },
+    {
+      "id": "hospital-lobby",
+      "description": "Clean modern hospital lobby",
+      "imageUrl": "https://picsum.photos/seed/hosp/1200/800",
+      "imageHint": "hospital clinic"
+    }
+  ]
+}
